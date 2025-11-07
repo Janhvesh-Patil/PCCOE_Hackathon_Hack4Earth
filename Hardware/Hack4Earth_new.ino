@@ -23,5 +23,7 @@ void loop() {
   }
 
   delay(5000);  // Send reading every 5 seconds
+
+  while (true);
 }
 
