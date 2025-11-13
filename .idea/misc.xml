@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="59e6c804-4047-44de-9050-d18fbbb42358" />
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (PCCOE_Hackathon_Hack4Earth)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (PCCOE_Hackathon_Hack4Earth)" project-jdk-type="Python SDK" />
 </project>
